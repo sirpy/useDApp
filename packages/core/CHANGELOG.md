@@ -1,5 +1,16 @@
 # @usedapp/core
 
+## 1.2.3
+
+### Patch Changes
+
+- 737d43c: Add queryParams to useToken hook
+- d641e77: Return connector errors in useEthers
+- 1ad724c: Keep transactionName in notifications after the transaction is mined
+- ab9b722: Add Rootstock Testnet and Mainnet networks
+- 6a06d7e: 🧤 Add non-empty data string in Send Transaction for restoring Gnosis Safe integration
+- b069906: Update optimism goerli etherscan link
+
 ## 1.2.2
 
 ### Patch Changes
